@@ -1,0 +1,7 @@
+E:\Thomas's Shit\n8306699\CAB301\ASS 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+E:\Thomas's Shit\n8306699\CAB301\ASS 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+E:\Thomas's Shit\n8306699\CAB301\ASS 2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+E:\Thomas's Shit\n8306699\CAB301\ASS 2\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+E:\Thomas's Shit\n8306699\CAB301\ASS 2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+E:\Thomas's Shit\n8306699\CAB301\ASS 2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+E:\Thomas's Shit\n8306699\CAB301\ASS 2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
